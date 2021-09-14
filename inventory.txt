@@ -1,0 +1,10 @@
+D5::Kit-Kat::0.55::8
+F7::Walkers Cheese & Onion::0.75::0
+A3::Cadbury Twirl::0.55::7
+B5::Walkers Ready Salted::0.75::4
+E9::Snickers::0.6::1
+C8::Kinder Bueno::0.6::3
+A7::McVities Mini Cheddars::0.9::2
+F2::Walkers Doritos Extreme Chili Heatwave::0.9::8
+E2::Twix::0.8::7
+B1::Walkers Max Chargrilled Steak::0.9::5
